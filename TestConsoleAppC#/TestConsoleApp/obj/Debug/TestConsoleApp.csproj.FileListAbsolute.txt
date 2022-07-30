@@ -1,0 +1,7 @@
+C:\Users\highp\source\repos\TestConsoleApp\TestConsoleApp\bin\Debug\TestConsoleApp.exe.config
+C:\Users\highp\source\repos\TestConsoleApp\TestConsoleApp\bin\Debug\TestConsoleApp.exe
+C:\Users\highp\source\repos\TestConsoleApp\TestConsoleApp\bin\Debug\TestConsoleApp.pdb
+C:\Users\highp\source\repos\TestConsoleApp\TestConsoleApp\obj\Debug\TestConsoleApp.csproj.AssemblyReference.cache
+C:\Users\highp\source\repos\TestConsoleApp\TestConsoleApp\obj\Debug\TestConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\highp\source\repos\TestConsoleApp\TestConsoleApp\obj\Debug\TestConsoleApp.exe
+C:\Users\highp\source\repos\TestConsoleApp\TestConsoleApp\obj\Debug\TestConsoleApp.pdb
